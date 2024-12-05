@@ -27,7 +27,7 @@ locals {
   }
 
   common_tags = {
-    "id"             = "2023"
+    "id"             = "240579"
     "owner"          = "Mamadou"
     "environment"    = "dev"
     "project"        = "koupa"
