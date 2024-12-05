@@ -1,0 +1,9 @@
+common_tags = {
+    "id"             = "2023"
+    "owner"          = "Mamadou"
+    "environment"    = "dev"
+    "project"        = "koupa"
+    "create_by"      = "Terraform"
+    "cloud_provider" = "aws"
+    "company"        = "EKT"
+  }
